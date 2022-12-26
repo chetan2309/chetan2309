@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan2309)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **chetan2309/chetan2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
