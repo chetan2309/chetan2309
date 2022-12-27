@@ -1,4 +1,4 @@
-### Hi there 👋, I am Chetan Sharma
+### Namaste, Hola, Hello, Shalom 👋, I am Chetan Sharma
 #### I am an Azure Cloud/Solutions Architect
 I am Building Cloud Architecture for an IOT Platform used in Precision irrigation and also learning new stuff
 
@@ -6,7 +6,7 @@ Skills: Azure Cloud Architecture / C# / Terraform / IaC
 
 - 🔭 I’m currently working on Building Cloud Architecture for an IOT Platform used in Precision irrigation 
 - 🌱 I’m currently learning Rust, Azure Cloud Architecture, Terraform, CosmosDB, Kafka 
-- 👯 I’m looking to collaborate on Cloud Architecture, Running distributed team 
+- 👯 I’m looking to collaborate on Cloud Architecture, Running distributed teams.
 - 💬 Ask me about Azure Cloud Architecture, .NET Core, CosmosDB 
 - 📫 How to reach me: csharma@duck.com 
 
@@ -19,6 +19,6 @@ Skills: Azure Cloud Architecture / C# / Terraform / IaC
 
 <!--![GitHub metrics](https://metrics.lecoq.io/chetan2309)  -->
 
-<!--![GitHub streak stats](https://streak-stats.demolab.com/?user=chetan2309)  -->
+![GitHub streak stats](https://streak-stats.demolab.com/?user=chetan2309)
 
 ![Profile views](https://gpvc.arturio.dev/chetan2309)  
